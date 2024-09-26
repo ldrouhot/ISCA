@@ -145,4 +145,4 @@ Please cite the package as follows:
 
 ## Acknowledgement
 
-Lucas Drouhot gratefully acknowledges support from seed grant awarded by the 'Migration and Social Change' focus area at Utrecht University.
+Lucas Drouhot gratefully acknowledges support from a seed grant awarded by the 'Migration and Social Change' focus area at Utrecht University.
