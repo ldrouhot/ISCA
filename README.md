@@ -142,3 +142,7 @@ Please cite the package as follows:
 
 > Drouhot, Lucas G., and Marion Späth. 2024. ISCA: Compare Heterogeneous
 > Social Groups. R package version 0.1.0.
+
+## Acknowledgement
+
+Lucas Drouhot gratefully acknowledges support from seed grant awarded by the 'Migration and Social Change' focus area at Utrecht University.
